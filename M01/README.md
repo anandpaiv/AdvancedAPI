@@ -19,15 +19,15 @@ A small, beginner-friendly project to practice **Object-Oriented Programming (OO
 M01/
 main.py
 README.md
+test_domain.py
 domain/
     __init__.py
     errors.py
     validators.py
     users.py
     appointments.py
-tests/
-    test_domain.py
-    Unknown
+   
+
 
 ## Requirements
 - Python 3.9+ (recommended)
