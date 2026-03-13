@@ -35,13 +35,13 @@ M01/
 No external libraries needed.
 
 ## How to run
-From the **repo root**:
+From the M01 folder:
 ```bash
-python M01/main.py
+python main.py
 ```
 
 ## How to test
-From the **repo root**:
+From the M01 folder:
 ```bash
 python -m unittest -v tests.test_domain
 ```
