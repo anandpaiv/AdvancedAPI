@@ -43,5 +43,5 @@ python M01/main.py
 ## How to test
 From the **repo root**:
 ```bash
-python -m unittest -v M01.tests.test_domain
+python -m unittest -v tests.test_domain
 ```
