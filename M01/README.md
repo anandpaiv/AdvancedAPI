@@ -17,15 +17,15 @@ A small, beginner-friendly project to practice **Object-Oriented Programming (OO
 ## Folder structure
 
 M01/
-main.py
-README.md
-test_domain.py
-domain/
-    __init__.py
-    errors.py
-    validators.py
-    users.py
-    appointments.py
+- main.py
+- README.md
+- test_domain.py
+- domain/
+    - __init__.py
+    - errors.py
+    - validators.py
+    - users.py
+    - appointments.py
    
 
 
